@@ -1,0 +1,4 @@
+--Kmap simulation created by Python. 
+--Created only for personal interest.
+--Mind that some corner cases are not handled. So, it may give incorrect result for some cases.
+--Otherwise, it gives correct results in most of the cases.
